@@ -19,6 +19,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="40" alt="python logo"  />
   <img width="12" />
+
 </div>
 
- 
+##
+
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Arthur-Fernandes-Barros.Arthur-Fernandes-Barros&"  />
+
+ Arthur-Fernandes-Barros
