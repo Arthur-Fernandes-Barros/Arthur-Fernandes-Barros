@@ -3,6 +3,8 @@
 
 ### - 🤖 Student of Technology in Internet Systems from Fatec São Roque 
 ### - 🐍 Studing Python and Front-End
+### - 🔑 Studing SAP ABAP 
+### - 🐘 Studing PHP
 
 ##
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Arthur-Fernandes-Barros.Arthur-Fernandes-Barros&"  />
